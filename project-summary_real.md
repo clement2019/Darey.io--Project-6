@@ -13,5 +13,5 @@ things on the same project but with a common objective of making sure the WordPr
 WordPress was installed while connecting MYSQL database server engine remotely, this will further my skills set at deploying a web-based solutions that is database driven.
 
 
-This no doubt will further enhance my understandings of the critical components of the web solutions and the capacity needed to troubleshoot
+This no doubt that this will further enhance my understandings of the critical components of the web solutions and the capacity needed to troubleshoot
 while making progress in my development in the Devops landscape.
